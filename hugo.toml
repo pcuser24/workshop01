@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://pcuser24.github.io/workshop01/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'learn'
+
+canonifyURLs = true
 
 # For search functionality
 [outputs]
@@ -48,7 +50,7 @@ home = [ "HTML", "RSS", "JSON"]
   # custom_css = ["css/foo.css", "css/bar.css"]
   # Change the title separator. Default to "::".
   # titleSeparator = "-"
-
+  github = "https://pcuser24.github.io/workshop01"
 
 [Languages]
 [Languages.en]
