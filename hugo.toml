@@ -1,6 +1,6 @@
 baseURL = 'https://pcuser24.github.io/workshop01/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Workshop 01'
 theme = 'learn'
 
 canonifyURLs = true
